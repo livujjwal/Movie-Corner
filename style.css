@@ -34,10 +34,12 @@
     box-sizing: border-box;
 }
 #search_btn{
+    align-self: center;
     margin-inline:6rem;
-    background-color: blue;
-    padding: 5px;
-    width: 80px;
+    background-color: rgb(6, 59, 192);
+    padding: 10px;
+    width: 200px;
+    height: 40px;
  border: none;
  border-radius: 5px;
 }
